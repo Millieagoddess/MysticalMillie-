@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Millie's Spiritual Services | Tarot Reading, Reiki Healing, and Spiritual Coaching</title>
+    <meta name="description" content="Millie's Sacred Space offers Tarot reading, Reiki healing, spiritual coaching, and root work to empower your spiritual journey. Book a session today!">
+    <meta name="keywords" content="Tarot, Reiki, Spiritual Coaching, Root Work, Mediumship, Astrology, Healing, Spiritual Advisor">
+    <meta name="author" content="Millie Goddess Glitz">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Millie's Spiritual Services">
+    <meta property="og:description" content="Empower your spiritual journey with Tarot reading, Reiki healing, and spiritual coaching.">
+    <meta property="og:image" content="https://i.imgur.com/nrRPpq5.jpg">
+    <meta property="og:url" content="YOUR_WEBSITE_URL_HERE">
+    <meta property="og:type" content="website">
+
+    <style>
+        /* CSS styles go here */
+        /* Example styles below */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        /* More CSS rules... */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Millie's Spiritual Services</h1>
+    </header>
+    <div class="content">
+        <img src="https://i.imgur.com/nrRPpq5.jpg" alt="Millie, a Tarot reader and spiritual coach, smiling warmly" />
+        <h2>About Me</h2>
+        <p><strong>Cosmic Guidance for Your Soul's Journey</strong></p>
+        <p>Unlock Hidden Truths | Empower Your Spirit</p>
+        <!-- More content... -->
+    </div>
+    <footer>
+        <h2>Connect with Me</h2>
+        <p>
+            <a href="https://www.facebook.com/profile.php?id=100087657955430&mibextid=LQQJ4d" target="_blank">Facebook</a> |
+            <a href="https://www.tiktok.com/@goddessglitz?_t=8r3ilC0oJ4g&_r=1" target="_blank">TikTok</a>
+        </p>
+    </footer>
+</body>
+</html>
